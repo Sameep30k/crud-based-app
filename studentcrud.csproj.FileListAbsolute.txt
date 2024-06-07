@@ -1,0 +1,7 @@
+C:\Users\bhara\source\repos\studentcrud\studentcrud\bin\Debug\studentcrud.exe.config
+C:\Users\bhara\source\repos\studentcrud\studentcrud\bin\Debug\studentcrud.exe
+C:\Users\bhara\source\repos\studentcrud\studentcrud\bin\Debug\studentcrud.pdb
+C:\Users\bhara\source\repos\studentcrud\studentcrud\obj\Debug\studentcrud.csprojAssemblyReference.cache
+C:\Users\bhara\source\repos\studentcrud\studentcrud\obj\Debug\studentcrud.csproj.CoreCompileInputs.cache
+C:\Users\bhara\source\repos\studentcrud\studentcrud\obj\Debug\studentcrud.exe
+C:\Users\bhara\source\repos\studentcrud\studentcrud\obj\Debug\studentcrud.pdb
